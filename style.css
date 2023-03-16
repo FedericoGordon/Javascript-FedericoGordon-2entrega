@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: goldenrod;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 18px;
+    min-height: 100vh;
+}
+
+footer {
+    background-color: gray;
+    margin-bottom: 0;
+    margin-top: 2em;
+}
+
+.redes {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.direccion {
+        font-size: 14px;
+        color: black;
+        padding: 15px 15px 0px 15px;
+    }
